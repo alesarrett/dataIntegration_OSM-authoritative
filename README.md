@@ -1,4 +1,4 @@
-# dataIntegration_OSM-authoritative
+# Integration between OSM and authoritative data
 
 This repository contains some ETL processes and test data to describe an exercise of integration between OpenStreetMap data and authoritative data.
 
