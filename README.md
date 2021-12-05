@@ -33,5 +33,5 @@ The licences adheres to the [Open Definition](http://opendefinition.org/), with 
 ## Integrated datasets
 
 The integrated datasets produced after the analysis are deposited in Zenodo, allowing a full preservation and citability (using assigned DOI), and are accessible at the following URLs:
-    • Finland: https://doi.org/10.5281/zenodo.5735492
-    • Netherlands: https://doi.org/10.5281/zenodo.5740441
+* Finland: https://doi.org/10.5281/zenodo.5735492
+* Netherlands: https://doi.org/10.5281/zenodo.5740441
